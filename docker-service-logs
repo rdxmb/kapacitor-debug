@@ -1,0 +1,579 @@
+    # docker service logs tick_kapacitor 
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | 
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | '##:::'##::::'###::::'########:::::'###:::::'######::'####:'########::'#######::'########::
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | 
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | 
+    tick_kapacitor.1.yqsip6g3cwau@docker3    |  ##::'##::::'## ##::: ##.... ##:::'## ##:::'##... ##:. ##::... ##..::'##.... ##: ##.... ##:
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | 
+    tick_kapacitor.1.yqsip6g3cwau@docker3    |  ##:'##::::'##:. ##:: ##:::: ##::'##:. ##:: ##:::..::: ##::::: ##:::: ##:::: ##: ##:::: ##:
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | '##:::'##::::'###::::'########:::::'###:::::'######::'####:'########::'#######::'########::
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | '##:::'##::::'###::::'########:::::'###:::::'######::'####:'########::'#######::'########::
+    tick_kapacitor.1.ze6vzodgodoe@docker3    |  ##::'##::::'## ##::: ##.... ##:::'## ##:::'##... ##:. ##::... ##..::'##.... ##: ##.... ##:
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | '##:::'##::::'###::::'########:::::'###:::::'######::'####:'########::'#######::'########::
+    tick_kapacitor.1.yqsip6g3cwau@docker3    |  #####::::'##:::. ##: ########::'##:::. ##: ##:::::::: ##::::: ##:::: ##:::: ##: ########::
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    |  ##::'##::::'## ##::: ##.... ##:::'## ##:::'##... ##:. ##::... ##..::'##.... ##: ##.... ##:
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    |  ##:'##::::'##:. ##:: ##:::: ##::'##:. ##:: ##:::..::: ##::::: ##:::: ##:::: ##: ##:::: ##:
+    tick_kapacitor.1.ze6vzodgodoe@docker3    |  ##:'##::::'##:. ##:: ##:::: ##::'##:. ##:: ##:::..::: ##::::: ##:::: ##:::: ##: ##:::: ##:
+    tick_kapacitor.1.ygcetdbd2lww@docker3    |  ##::'##::::'## ##::: ##.... ##:::'## ##:::'##... ##:. ##::... ##..::'##.... ##: ##.... ##:
+    tick_kapacitor.1.yqsip6g3cwau@docker3    |  ##. ##::: #########: ##.....::: #########: ##:::::::: ##::::: ##:::: ##:::: ##: ##.. ##:::
+    tick_kapacitor.1.yqsip6g3cwau@docker3    |  ##:. ##:: ##.... ##: ##:::::::: ##.... ##: ##::: ##:: ##::::: ##:::: ##:::: ##: ##::. ##::
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    |  #####::::'##:::. ##: ########::'##:::. ##: ##:::::::: ##::::: ##:::: ##:::: ##: ########::
+    tick_kapacitor.1.ze6vzodgodoe@docker3    |  #####::::'##:::. ##: ########::'##:::. ##: ##:::::::: ##::::: ##:::: ##:::: ##: ########::
+    tick_kapacitor.1.ygcetdbd2lww@docker3    |  ##:'##::::'##:. ##:: ##:::: ##::'##:. ##:: ##:::..::: ##::::: ##:::: ##:::: ##: ##:::: ##:
+    tick_kapacitor.1.ygcetdbd2lww@docker3    |  #####::::'##:::. ##: ########::'##:::. ##: ##:::::::: ##::::: ##:::: ##:::: ##: ########::
+    tick_kapacitor.1.yqsip6g3cwau@docker3    |  ##::. ##: ##:::: ##: ##:::::::: ##:::: ##:. ######::'####:::: ##::::. #######:: ##:::. ##:
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    |  ##. ##::: #########: ##.....::: #########: ##:::::::: ##::::: ##:::: ##:::: ##: ##.. ##:::
+    tick_kapacitor.1.ze6vzodgodoe@docker3    |  ##. ##::: #########: ##.....::: #########: ##:::::::: ##::::: ##:::: ##:::: ##: ##.. ##:::
+    tick_kapacitor.1.ze6vzodgodoe@docker3    |  ##:. ##:: ##.... ##: ##:::::::: ##.... ##: ##::: ##:: ##::::: ##:::: ##:::: ##: ##::. ##::
+    tick_kapacitor.1.ygcetdbd2lww@docker3    |  ##. ##::: #########: ##.....::: #########: ##:::::::: ##::::: ##:::: ##:::: ##: ##.. ##:::
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ..::::..::..:::::..::..:::::::::..:::::..:::......:::....:::::..::::::.......:::..:::::..::
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    |  ##:. ##:: ##.... ##: ##:::::::: ##.... ##: ##::: ##:: ##::::: ##:::: ##:::: ##: ##::. ##::
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    |  ##::. ##: ##:::: ##: ##:::::::: ##:::: ##:. ######::'####:::: ##::::. #######:: ##:::. ##:
+    tick_kapacitor.1.ze6vzodgodoe@docker3    |  ##::. ##: ##:::: ##: ##:::::::: ##:::: ##:. ######::'####:::: ##::::. #######:: ##:::. ##:
+    tick_kapacitor.1.ygcetdbd2lww@docker3    |  ##:. ##:: ##.... ##: ##:::::::: ##.... ##: ##::: ##:: ##::::: ##:::: ##:::: ##: ##::. ##::
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | 
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | 2018/01/24 13:44:52 Using configuration at: /etc/kapacitor/kapacitor.conf
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ..::::..::..:::::..::..:::::::::..:::::..:::......:::....:::::..::::::.......:::..:::::..::
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ..::::..::..:::::..::..:::::::::..:::::..:::......:::....:::::..::::::.......:::..:::::..::
+    tick_kapacitor.1.ygcetdbd2lww@docker3    |  ##::. ##: ##:::: ##: ##:::::::: ##:::: ##:. ######::'####:::: ##::::. #######:: ##:::. ##:
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ..::::..::..:::::..::..:::::::::..:::::..:::......:::....:::::..::::::.......:::..:::::..::
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.840+01:00 lvl=info msg="kapacitor starting" service=run version=1.4.0 branch=HEAD commit=fcce3ee9e6abcee5595fd61066bfc904edb1e113
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | 
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | 
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | 2018/01/24 13:43:20 Using configuration at: /etc/kapacitor/kapacitor.conf
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | 
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.840+01:00 lvl=info msg="go version" service=run version=go1.9.2
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | 2018/01/24 13:50:51 Using configuration at: /etc/kapacitor/kapacitor.conf
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.335+01:00 lvl=info msg="kapacitor starting" service=run version=1.4.0 branch=HEAD commit=fcce3ee9e6abcee5595fd61066bfc904edb1e113
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.840+01:00 lvl=info msg="kapacitor starting" service=run version=1.4.0 branch=HEAD commit=fcce3ee9e6abcee5595fd61066bfc904edb1e113
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | 2018/01/24 13:49:31 Using configuration at: /etc/kapacitor/kapacitor.conf
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.840+01:00 lvl=info msg="listing Kapacitor hostname" source=srv hostname=kapacitor
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.840+01:00 lvl=info msg="listing ClusterID and ServerID" source=srv cluster_id=577f737e-02b2-403e-9c23-6a6319f19ac3 server_id=13ce37a4-c4a1-4ec6-8f6d-20c759e44cf5
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.335+01:00 lvl=info msg="go version" service=run version=go1.9.2
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.840+01:00 lvl=info msg="go version" service=run version=go1.9.2
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.726+01:00 lvl=info msg="kapacitor starting" service=run version=1.4.0 branch=HEAD commit=fcce3ee9e6abcee5595fd61066bfc904edb1e113
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.726+01:00 lvl=info msg="go version" service=run version=go1.9.2
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.335+01:00 lvl=info msg="listing Kapacitor hostname" source=srv hostname=kapacitor
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.840+01:00 lvl=info msg="opened task master" service=kapacitor task_master=main
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.840+01:00 lvl=info msg="using InsecureSkipVerify when connecting to InfluxDB; this is insecure" service=influxdb cluster=influxdb urls_0=http://influxdb:8086
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.726+01:00 lvl=info msg="listing Kapacitor hostname" source=srv hostname=kapacitor
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.335+01:00 lvl=info msg="listing ClusterID and ServerID" source=srv cluster_id=577f737e-02b2-403e-9c23-6a6319f19ac3 server_id=13ce37a4-c4a1-4ec6-8f6d-20c759e44cf5
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.726+01:00 lvl=info msg="listing ClusterID and ServerID" source=srv cluster_id=577f737e-02b2-403e-9c23-6a6319f19ac3 server_id=13ce37a4-c4a1-4ec6-8f6d-20c759e44cf5
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.840+01:00 lvl=debug msg="opening service" source=srv service=*storage.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.843+01:00 lvl=debug msg="opened service" source=srv service=*storage.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.335+01:00 lvl=info msg="opened task master" service=kapacitor task_master=main
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.726+01:00 lvl=info msg="opened task master" service=kapacitor task_master=main
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.840+01:00 lvl=info msg="listing Kapacitor hostname" source=srv hostname=kapacitor
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.840+01:00 lvl=info msg="listing ClusterID and ServerID" source=srv cluster_id=577f737e-02b2-403e-9c23-6a6319f19ac3 server_id=13ce37a4-c4a1-4ec6-8f6d-20c759e44cf5
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.335+01:00 lvl=info msg="using InsecureSkipVerify when connecting to InfluxDB; this is insecure" service=influxdb cluster=influxdb urls_0=http://influxdb:8086
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.843+01:00 lvl=debug msg="opening service" source=srv service=*noauth.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.726+01:00 lvl=info msg="using InsecureSkipVerify when connecting to InfluxDB; this is insecure" service=influxdb cluster=influxdb urls_0=http://influxdb:8086
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.840+01:00 lvl=info msg="opened task master" service=kapacitor task_master=main
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.840+01:00 lvl=info msg="using InsecureSkipVerify when connecting to InfluxDB; this is insecure" service=influxdb cluster=influxdb urls_0=http://influxdb:8086
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.843+01:00 lvl=debug msg="opened service" source=srv service=*noauth.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.727+01:00 lvl=debug msg="opening service" source=srv service=*storage.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.335+01:00 lvl=debug msg="opening service" source=srv service=*storage.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.729+01:00 lvl=debug msg="opened service" source=srv service=*storage.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.841+01:00 lvl=debug msg="opening service" source=srv service=*storage.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.843+01:00 lvl=debug msg="opening service" source=srv service=*config.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.338+01:00 lvl=debug msg="opened service" source=srv service=*storage.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.843+01:00 lvl=debug msg="opened service" source=srv service=*storage.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.729+01:00 lvl=debug msg="opening service" source=srv service=*noauth.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.843+01:00 lvl=debug msg="opened service" source=srv service=*config.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.338+01:00 lvl=debug msg="opening service" source=srv service=*noauth.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.729+01:00 lvl=debug msg="opened service" source=srv service=*noauth.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.843+01:00 lvl=debug msg="opening service" source=srv service=*noauth.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.843+01:00 lvl=debug msg="applying config overrides" source=srv
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.338+01:00 lvl=debug msg="opened service" source=srv service=*noauth.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.729+01:00 lvl=debug msg="opening service" source=srv service=*config.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.843+01:00 lvl=debug msg="opened service" source=srv service=*noauth.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.843+01:00 lvl=debug msg="applying config overrides for service" source=srv service=influxdb
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.338+01:00 lvl=debug msg="opening service" source=srv service=*config.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.338+01:00 lvl=debug msg="opened service" source=srv service=*config.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.729+01:00 lvl=debug msg="opened service" source=srv service=*config.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.843+01:00 lvl=debug msg="opening service" source=srv service=*config.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.843+01:00 lvl=info msg="using InsecureSkipVerify when connecting to InfluxDB; this is insecure" service=influxdb cluster=influxdb urls_0=http://influxdb:8086
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.843+01:00 lvl=debug msg="applying config overrides for service" source=srv service=talk
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.730+01:00 lvl=debug msg="applying config overrides" source=srv
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.338+01:00 lvl=debug msg="applying config overrides" source=srv
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.844+01:00 lvl=debug msg="opened service" source=srv service=*config.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.730+01:00 lvl=debug msg="applying config overrides for service" source=srv service=pushover
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.844+01:00 lvl=debug msg="applying config overrides" source=srv
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.339+01:00 lvl=debug msg="applying config overrides for service" source=srv service=opsgenie
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.843+01:00 lvl=debug msg="applying config overrides for service" source=srv service=victorops
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.843+01:00 lvl=debug msg="applying config overrides for service" source=srv service=slack
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.730+01:00 lvl=debug msg="applying config overrides for service" source=srv service=alerta
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.844+01:00 lvl=debug msg="applying config overrides for service" source=srv service=talk
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.339+01:00 lvl=debug msg="applying config overrides for service" source=srv service=hipchat
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.339+01:00 lvl=debug msg="applying config overrides for service" source=srv service=pagerduty
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.843+01:00 lvl=debug msg="applying config overrides for service" source=srv service=smtp
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.730+01:00 lvl=debug msg="applying config overrides for service" source=srv service=pagerduty
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.844+01:00 lvl=debug msg="applying config overrides for service" source=srv service=slack
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.843+01:00 lvl=debug msg="applying config overrides for service" source=srv service=snmptrap
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.844+01:00 lvl=debug msg="applying config overrides for service" source=srv service=smtp
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.339+01:00 lvl=debug msg="applying config overrides for service" source=srv service=sensu
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.730+01:00 lvl=debug msg="applying config overrides for service" source=srv service=httppost
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.730+01:00 lvl=debug msg="applying config overrides for service" source=srv service=mqtt
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.843+01:00 lvl=debug msg="applying config overrides for service" source=srv service=alerta
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.844+01:00 lvl=debug msg="applying config overrides for service" source=srv service=pushover
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.339+01:00 lvl=debug msg="applying config overrides for service" source=srv service=alerta
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.339+01:00 lvl=debug msg="applying config overrides for service" source=srv service=victorops
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.844+01:00 lvl=debug msg="applying config overrides for service" source=srv service=pagerduty
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.844+01:00 lvl=debug msg="applying config overrides for service" source=srv service=hipchat
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.730+01:00 lvl=debug msg="applying config overrides for service" source=srv service=victorops
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.844+01:00 lvl=debug msg="applying config overrides for service" source=srv service=influxdb
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.730+01:00 lvl=debug msg="applying config overrides for service" source=srv service=influxdb
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.844+01:00 lvl=debug msg="applying config overrides for service" source=srv service=mqtt
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.339+01:00 lvl=debug msg="applying config overrides for service" source=srv service=pushover
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.339+01:00 lvl=debug msg="applying config overrides for service" source=srv service=talk
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.730+01:00 lvl=info msg="using InsecureSkipVerify when connecting to InfluxDB; this is insecure" service=influxdb cluster=influxdb urls_0=http://influxdb:8086
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.844+01:00 lvl=debug msg="applying config overrides for service" source=srv service=sensu
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.844+01:00 lvl=info msg="using InsecureSkipVerify when connecting to InfluxDB; this is insecure" service=influxdb cluster=influxdb urls_0=http://influxdb:8086
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.844+01:00 lvl=debug msg="applying config overrides for service" source=srv service=opsgenie
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.339+01:00 lvl=debug msg="applying config overrides for service" source=srv service=snmptrap
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.730+01:00 lvl=debug msg="applying config overrides for service" source=srv service=snmptrap
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.844+01:00 lvl=debug msg="applying config overrides for service" source=srv service=telegram
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.844+01:00 lvl=debug msg="applying config overrides for service" source=srv service=pagerduty
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.844+01:00 lvl=debug msg="applying config overrides for service" source=srv service=victorops
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.339+01:00 lvl=debug msg="applying config overrides for service" source=srv service=telegram
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.730+01:00 lvl=debug msg="applying config overrides for service" source=srv service=opsgenie
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.844+01:00 lvl=debug msg="applying config overrides for service" source=srv service=hipchat
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.730+01:00 lvl=debug msg="applying config overrides for service" source=srv service=hipchat
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.339+01:00 lvl=debug msg="applying config overrides for service" source=srv service=influxdb
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.844+01:00 lvl=debug msg="applying config overrides for service" source=srv service=pushover
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.844+01:00 lvl=debug msg="applying config overrides for service" source=srv service=httppost
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.730+01:00 lvl=debug msg="applying config overrides for service" source=srv service=talk
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.844+01:00 lvl=debug msg="applying config overrides for service" source=srv service=sensu
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.339+01:00 lvl=info msg="using InsecureSkipVerify when connecting to InfluxDB; this is insecure" service=influxdb cluster=influxdb urls_0=http://influxdb:8086
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.339+01:00 lvl=debug msg="applying config overrides for service" source=srv service=mqtt
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.844+01:00 lvl=debug msg="applying config overrides for service" source=srv service=opsgenie
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.730+01:00 lvl=debug msg="applying config overrides for service" source=srv service=slack
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.844+01:00 lvl=debug msg="applying config overrides for service" source=srv service=mqtt
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.844+01:00 lvl=debug msg="applying config overrides for service" source=srv service=httppost
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.339+01:00 lvl=debug msg="applying config overrides for service" source=srv service=httppost
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.844+01:00 lvl=debug msg="opening service" source=srv service=*servicetest.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.730+01:00 lvl=debug msg="applying config overrides for service" source=srv service=sensu
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.730+01:00 lvl=debug msg="applying config overrides for service" source=srv service=telegram
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.844+01:00 lvl=debug msg="applying config overrides for service" source=srv service=telegram
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.339+01:00 lvl=debug msg="applying config overrides for service" source=srv service=slack
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.844+01:00 lvl=debug msg="opened service" source=srv service=*servicetest.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.844+01:00 lvl=debug msg="opening service" source=srv service=*sideload.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.730+01:00 lvl=debug msg="applying config overrides for service" source=srv service=smtp
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.844+01:00 lvl=debug msg="applying config overrides for service" source=srv service=alerta
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.339+01:00 lvl=debug msg="applying config overrides for service" source=srv service=smtp
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.339+01:00 lvl=debug msg="opening service" source=srv service=*servicetest.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.844+01:00 lvl=debug msg="opened service" source=srv service=*sideload.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.730+01:00 lvl=debug msg="opening service" source=srv service=*servicetest.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.844+01:00 lvl=debug msg="applying config overrides for service" source=srv service=snmptrap
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.844+01:00 lvl=debug msg="opening service" source=srv service=*udf.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.730+01:00 lvl=debug msg="opened service" source=srv service=*servicetest.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.339+01:00 lvl=debug msg="opened service" source=srv service=*servicetest.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.844+01:00 lvl=debug msg="opening service" source=srv service=*servicetest.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.844+01:00 lvl=debug msg="opened service" source=srv service=*servicetest.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.844+01:00 lvl=debug msg="opened service" source=srv service=*udf.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.730+01:00 lvl=debug msg="opening service" source=srv service=*sideload.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.339+01:00 lvl=debug msg="opening service" source=srv service=*sideload.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.844+01:00 lvl=debug msg="opening service" source=srv service=*deadman.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.844+01:00 lvl=debug msg="opening service" source=srv service=*sideload.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.730+01:00 lvl=debug msg="opened service" source=srv service=*sideload.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.844+01:00 lvl=debug msg="opened service" source=srv service=*deadman.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.844+01:00 lvl=debug msg="opened service" source=srv service=*sideload.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.844+01:00 lvl=debug msg="opening service" source=srv service=*udf.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.730+01:00 lvl=debug msg="opening service" source=srv service=*udf.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.844+01:00 lvl=debug msg="opening service" source=srv service=*influxdb.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.844+01:00 lvl=debug msg="linking subscription for cluster" service=influxdb cluster=influxdb cluster=influxdb
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.844+01:00 lvl=debug msg="opened service" source=srv service=*udf.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.730+01:00 lvl=debug msg="opened service" source=srv service=*udf.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=info msg="closed HTTP service" service=http
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.844+01:00 lvl=debug msg="opening service" source=srv service=*deadman.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.339+01:00 lvl=debug msg="opened service" source=srv service=*sideload.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.730+01:00 lvl=debug msg="opening service" source=srv service=*deadman.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing edge" service=kapacitor task_master=main task=task_master:main parent=write_points child=stream collected=0 emitted=0
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*httpd.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.844+01:00 lvl=debug msg="opened service" source=srv service=*deadman.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.339+01:00 lvl=debug msg="opening service" source=srv service=*udf.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.730+01:00 lvl=debug msg="opened service" source=srv service=*deadman.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.730+01:00 lvl=debug msg="opening service" source=srv service=*influxdb.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=info msg="closed HTTP service" service=http
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.844+01:00 lvl=debug msg="opening service" source=srv service=*influxdb.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.339+01:00 lvl=debug msg="opened service" source=srv service=*udf.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*httpd.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.730+01:00 lvl=debug msg="linking subscription for cluster" service=influxdb cluster=influxdb cluster=influxdb
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.844+01:00 lvl=debug msg="linking subscription for cluster" service=influxdb cluster=influxdb cluster=influxdb
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=info msg="closed HTTP service" service=http
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*reporting.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=info msg="closed HTTP service" service=http
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closing edge" service=kapacitor task_master=main task=task_master:main parent=write_points child=stream collected=0 emitted=0
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing edge" service=kapacitor task_master=main task=task_master:main parent=write_points child=stream collected=0 emitted=0
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*reporting.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.339+01:00 lvl=debug msg="opening service" source=srv service=*deadman.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closing service" source=srv service=*httpd.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*httpd.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=info msg="closed HTTP service" service=http
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=info msg="closed HTTP service" service=http
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*stats.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*stats.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*httpd.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closed service" source=srv service=*httpd.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closing service" source=srv service=*reporting.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*triton.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*reporting.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*reporting.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closed service" source=srv service=*reporting.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*triton.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*static_discovery.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*stats.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closing service" source=srv service=*stats.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closed service" source=srv service=*stats.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*static_discovery.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*stats.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*triton.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closing service" source=srv service=*triton.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*serverset.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*serverset.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*triton.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closed service" source=srv service=*triton.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closing service" source=srv service=*static_discovery.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*nerve.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*static_discovery.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closed service" source=srv service=*static_discovery.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*nerve.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*static_discovery.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*marathon.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closing service" source=srv service=*serverset.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*serverset.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.339+01:00 lvl=debug msg="opened service" source=srv service=*deadman.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.339+01:00 lvl=debug msg="opening service" source=srv service=*influxdb.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closed service" source=srv service=*serverset.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*marathon.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*serverset.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*nerve.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closing service" source=srv service=*nerve.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.339+01:00 lvl=debug msg="linking subscription for cluster" service=influxdb cluster=influxdb cluster=influxdb
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*gce.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=info msg="closed HTTP service" service=http
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*nerve.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closed service" source=srv service=*nerve.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*marathon.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*gce.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closing edge" service=kapacitor task_master=main task=task_master:main parent=write_points child=stream collected=0 emitted=0
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closing service" source=srv service=*httpd.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closing service" source=srv service=*marathon.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*marathon.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*file_discovery.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*file_discovery.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=info msg="closed HTTP service" service=http
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closed service" source=srv service=*marathon.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*gce.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*gce.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*dns.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closed service" source=srv service=*httpd.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closing service" source=srv service=*gce.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closed service" source=srv service=*gce.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*file_discovery.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*dns.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closing service" source=srv service=*reporting.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*file_discovery.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closing service" source=srv service=*file_discovery.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*consul.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closed service" source=srv service=*reporting.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closing service" source=srv service=*stats.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*dns.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closed service" source=srv service=*file_discovery.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*consul.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*azure.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closed service" source=srv service=*stats.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*dns.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closing service" source=srv service=*dns.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closed service" source=srv service=*dns.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*azure.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closing service" source=srv service=*triton.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*consul.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*consul.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closing service" source=srv service=*consul.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*ec2.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closed service" source=srv service=*triton.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closing service" source=srv service=*static_discovery.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*azure.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closed service" source=srv service=*consul.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*ec2.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*swarm.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closed service" source=srv service=*static_discovery.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*azure.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closing service" source=srv service=*azure.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closed service" source=srv service=*azure.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*swarm.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closing service" source=srv service=*serverset.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*ec2.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closed service" source=srv service=*serverset.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*k8s.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*ec2.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closing service" source=srv service=*ec2.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closing service" source=srv service=*nerve.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closed service" source=srv service=*nerve.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*k8s.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closing service" source=srv service=*marathon.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*swarm.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closed service" source=srv service=*ec2.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closing service" source=srv service=*swarm.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closed service" source=srv service=*marathon.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*swarm.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*scraper.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*k8s.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closed service" source=srv service=*swarm.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closing service" source=srv service=*gce.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closed service" source=srv service=*gce.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*scraper.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*k8s.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closing service" source=srv service=*k8s.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closed service" source=srv service=*k8s.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closing service" source=srv service=*file_discovery.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*diagnostic.SessionService
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*scraper.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closing service" source=srv service=*scraper.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closed service" source=srv service=*file_discovery.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*diagnostic.SessionService
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*scraper.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*replay.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closing service" source=srv service=*dns.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closed service" source=srv service=*scraper.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*diagnostic.SessionService
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closed service" source=srv service=*dns.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*replay.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closing service" source=srv service=*diagnostic.SessionService
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closed service" source=srv service=*diagnostic.SessionService
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*diagnostic.SessionService
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closing service" source=srv service=*consul.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*task_store.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*task_store.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closing service" source=srv service=*replay.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*replay.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closed service" source=srv service=*consul.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closed service" source=srv service=*replay.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closing service" source=srv service=*azure.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*replay.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*alert.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*alert.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closed service" source=srv service=*azure.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closing service" source=srv service=*task_store.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*task_store.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*task_store.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*victorops.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closing service" source=srv service=*ec2.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closed service" source=srv service=*task_store.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*victorops.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*alert.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*talk.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closed service" source=srv service=*ec2.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*talk.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closing service" source=srv service=*alert.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*alert.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*sensu.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closing service" source=srv service=*swarm.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closed service" source=srv service=*alert.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*victorops.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closed service" source=srv service=*swarm.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*sensu.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closing service" source=srv service=*victorops.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closed service" source=srv service=*victorops.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*victorops.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closing service" source=srv service=*k8s.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*snmptrap.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*talk.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closing service" source=srv service=*talk.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closed service" source=srv service=*k8s.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*snmptrap.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*slack.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closed service" source=srv service=*talk.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closing service" source=srv service=*scraper.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*talk.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*slack.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*telegram.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*sensu.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closing service" source=srv service=*sensu.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closed service" source=srv service=*sensu.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*telegram.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*sensu.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*snmptrap.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closing service" source=srv service=*snmptrap.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*smtp.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closed service" source=srv service=*scraper.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closing service" source=srv service=*diagnostic.SessionService
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*snmptrap.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closed service" source=srv service=*snmptrap.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*smtp.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*httppost.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closed service" source=srv service=*diagnostic.SessionService
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*slack.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closing service" source=srv service=*slack.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closed service" source=srv service=*slack.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*httppost.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closing service" source=srv service=*replay.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*slack.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*pushover.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closing service" source=srv service=*telegram.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closed service" source=srv service=*replay.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*telegram.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closing service" source=srv service=*task_store.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*pushover.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.733+01:00 lvl=debug msg="closed service" source=srv service=*telegram.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.734+01:00 lvl=debug msg="closing service" source=srv service=*smtp.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*telegram.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closed service" source=srv service=*task_store.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*pagerduty.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.734+01:00 lvl=debug msg="closed service" source=srv service=*smtp.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*pagerduty.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*smtp.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closing service" source=srv service=*alert.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*opsgenie.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.734+01:00 lvl=debug msg="closing service" source=srv service=*httppost.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*smtp.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*httppost.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closed service" source=srv service=*alert.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*opsgenie.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.734+01:00 lvl=debug msg="closed service" source=srv service=*httppost.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closing service" source=srv service=*victorops.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.734+01:00 lvl=debug msg="closing service" source=srv service=*pushover.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*mqtt.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*mqtt.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closed service" source=srv service=*victorops.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.734+01:00 lvl=debug msg="closed service" source=srv service=*pushover.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*httppost.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*pushover.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*hipchat.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closing service" source=srv service=*talk.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.734+01:00 lvl=debug msg="closing service" source=srv service=*pagerduty.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.734+01:00 lvl=debug msg="closed service" source=srv service=*pagerduty.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*pushover.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*hipchat.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closed service" source=srv service=*talk.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closing service" source=srv service=*sensu.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.734+01:00 lvl=debug msg="closing service" source=srv service=*opsgenie.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*pagerduty.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*pagerduty.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.341+01:00 lvl=debug msg="closed service" source=srv service=*sensu.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.734+01:00 lvl=debug msg="closed service" source=srv service=*opsgenie.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*alerta.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closing service" source=srv service=*snmptrap.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*opsgenie.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.734+01:00 lvl=debug msg="closing service" source=srv service=*mqtt.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*alerta.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closed service" source=srv service=*snmptrap.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*opsgenie.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*mqtt.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.734+01:00 lvl=debug msg="closed service" source=srv service=*mqtt.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*load.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closing service" source=srv service=*slack.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.734+01:00 lvl=debug msg="closing service" source=srv service=*hipchat.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*load.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*mqtt.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.734+01:00 lvl=debug msg="closed service" source=srv service=*hipchat.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closed service" source=srv service=*slack.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*hipchat.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closing service" source=srv service=*telegram.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*influxdb.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.734+01:00 lvl=debug msg="closing service" source=srv service=*alerta.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.734+01:00 lvl=debug msg="closed service" source=srv service=*alerta.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*hipchat.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closed service" source=srv service=*telegram.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*influxdb.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.734+01:00 lvl=debug msg="closing service" source=srv service=*load.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*alerta.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*alerta.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*deadman.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closing service" source=srv service=*smtp.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.734+01:00 lvl=debug msg="closed service" source=srv service=*load.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*deadman.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*load.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.734+01:00 lvl=debug msg="closing service" source=srv service=*influxdb.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closed service" source=srv service=*smtp.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*udf.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*udf.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.734+01:00 lvl=debug msg="closed service" source=srv service=*influxdb.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closing service" source=srv service=*httppost.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*load.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*influxdb.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*sideload.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.734+01:00 lvl=debug msg="closing service" source=srv service=*deadman.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closed service" source=srv service=*httppost.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closing service" source=srv service=*pushover.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*influxdb.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*sideload.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.734+01:00 lvl=debug msg="closed service" source=srv service=*deadman.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*deadman.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closed service" source=srv service=*pushover.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.734+01:00 lvl=debug msg="closing service" source=srv service=*udf.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*servicetest.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closing service" source=srv service=*pagerduty.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*deadman.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*udf.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.734+01:00 lvl=debug msg="closed service" source=srv service=*udf.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*servicetest.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closed service" source=srv service=*pagerduty.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closing service" source=srv service=*opsgenie.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*udf.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.734+01:00 lvl=debug msg="closing service" source=srv service=*sideload.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*config.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*config.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closed service" source=srv service=*opsgenie.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*sideload.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.734+01:00 lvl=debug msg="closed service" source=srv service=*sideload.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.734+01:00 lvl=debug msg="closing service" source=srv service=*servicetest.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*noauth.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closing service" source=srv service=*mqtt.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*sideload.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*servicetest.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.734+01:00 lvl=debug msg="closed service" source=srv service=*servicetest.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closed service" source=srv service=*noauth.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closed service" source=srv service=*mqtt.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closing service" source=srv service=*hipchat.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*servicetest.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.734+01:00 lvl=debug msg="closing service" source=srv service=*config.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.846+01:00 lvl=debug msg="closing service" source=srv service=*storage.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.851+01:00 lvl=debug msg="closed service" source=srv service=*storage.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closed service" source=srv service=*hipchat.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*config.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.734+01:00 lvl=debug msg="closed service" source=srv service=*config.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.851+01:00 lvl=info msg="closed task master" service=kapacitor task_master=main
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closing service" source=srv service=*alerta.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*config.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.734+01:00 lvl=debug msg="closing service" source=srv service=*noauth.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.734+01:00 lvl=debug msg="closed service" source=srv service=*noauth.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | ts=2018-01-24T13:44:52.851+01:00 lvl=error msg="encountered error" service=run err="open server: open service *influxdb.Service: failed to link subscription on startup: unable to parse authentication credentials"
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closed service" source=srv service=*alerta.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*noauth.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closed service" source=srv service=*noauth.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.734+01:00 lvl=debug msg="closing service" source=srv service=*storage.Service
+    tick_kapacitor.1.yqsip6g3cwau@docker3    | run: open server: open service *influxdb.Service: failed to link subscription on startup: unable to parse authentication credentials
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closing service" source=srv service=*load.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.847+01:00 lvl=debug msg="closing service" source=srv service=*storage.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.735+01:00 lvl=debug msg="closed service" source=srv service=*storage.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closed service" source=srv service=*load.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closing service" source=srv service=*influxdb.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.848+01:00 lvl=debug msg="closed service" source=srv service=*storage.Service
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.735+01:00 lvl=info msg="closed task master" service=kapacitor task_master=main
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | ts=2018-01-24T13:49:31.735+01:00 lvl=error msg="encountered error" service=run err="open server: open service *influxdb.Service: failed to link subscription on startup: unable to parse authentication credentials"
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closed service" source=srv service=*influxdb.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.848+01:00 lvl=info msg="closed task master" service=kapacitor task_master=main
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | ts=2018-01-24T13:43:20.848+01:00 lvl=error msg="encountered error" service=run err="open server: open service *influxdb.Service: failed to link subscription on startup: unable to parse authentication credentials"
+    tick_kapacitor.1.ygcetdbd2lww@docker3    | run: open server: open service *influxdb.Service: failed to link subscription on startup: unable to parse authentication credentials
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closing service" source=srv service=*deadman.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closed service" source=srv service=*deadman.Service
+    tick_kapacitor.1.ze6vzodgodoe@docker3    | run: open server: open service *influxdb.Service: failed to link subscription on startup: unable to parse authentication credentials
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closing service" source=srv service=*udf.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closed service" source=srv service=*udf.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closing service" source=srv service=*sideload.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closed service" source=srv service=*sideload.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closing service" source=srv service=*servicetest.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closed service" source=srv service=*servicetest.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closing service" source=srv service=*config.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closed service" source=srv service=*config.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closing service" source=srv service=*noauth.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closed service" source=srv service=*noauth.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.342+01:00 lvl=debug msg="closing service" source=srv service=*storage.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.343+01:00 lvl=debug msg="closed service" source=srv service=*storage.Service
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.343+01:00 lvl=info msg="closed task master" service=kapacitor task_master=main
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | ts=2018-01-24T13:50:51.343+01:00 lvl=error msg="encountered error" service=run err="open server: open service *influxdb.Service: failed to link subscription on startup: unable to parse authentication credentials"
+    tick_kapacitor.1.zg6tag3kj0yf@docker3    | run: open server: open service *influxdb.Service: failed to link subscription on startup: unable to parse authentication credentials
+
+
